@@ -36,6 +36,7 @@ div.b {
 div.c {
   border: solid black;
   width: 21%;
+  height: 75px;
   order: 4;
 
 }
@@ -43,12 +44,14 @@ div.c {
 div.d {
   border: solid black;
   width: 21%;
+  height: 75px;
   order: 5;
   
 }
 div.e {
   border: solid black;
   width: 21%;
+  height: 75px;
   order: 6;
   
 }
